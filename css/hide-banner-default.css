@@ -1,0 +1,14 @@
+/**
+ * Title: Hide Banner By Default
+ * Description: Hides the Building Blocks banner on all pages except the Building Blocks page (ID 408)
+ * Scope: frontend
+ * Status: active
+ */
+
+.imple-main .banner-main {
+    display: none;
+}
+
+body.page-id-408 .imple-main .banner-main {
+    display: block;
+}
