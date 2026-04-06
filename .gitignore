@@ -1,0 +1,11 @@
+# WordPress config files (contain secrets)
+wp-config*
+WP-CONFIG*
+*.backup
+
+# Deployment status (local tracking)
+DEPLOYMENT-STATUS.md
+
+# OS files
+.DS_Store
+Thumbs.db
