@@ -2,6 +2,8 @@
 /**
  * Title: Test Snippet
  * Description: Verifies SnipForge GitHub sync is working on Living Classroom
+ *
+ * Webhook sync verified 2026-08-13 (web-1fg sweep).
  * Scope: admin
  * Status: inactive
  * Priority: 10
